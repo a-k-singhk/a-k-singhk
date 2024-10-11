@@ -1,45 +1,34 @@
-## Hi there, I'm Alok 👋
+# Hi there, I'm Alok 👋
 
-I'm a **Full-Stack Software Developer** with a strong focus on backend development. Passionate about building scalable web applications and solving complex problems through algorithms and efficient code. 
-
----
-
-## 🚀 Skills
-
-- **Languages**: C, C++, JavaScript, Python
-- **Frameworks**: Node.js, Express.js, React.js, Django
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, Docker, Postman, OAuth2, Cloudinary, PayPal SDK
-- **Other**: REST APIs, Socket.io, Redux, Agile
+I'm a **Full-Stack Software Developer** with a strong focus on backend development. 🌱 I am passionate about building scalable web applications and solving complex problems through algorithms and efficient code. If you have any doubts related to software development, feel free to drop me an email or connect with me on LinkedIn.
 
 ---
 
-## 💼 Work Experience
+## 👨‍💻 Projects
 
-- **Backend Developer Intern @ KernelApps**  
-   Contributed to tenant management, chat authorization, and migration tools using Node.js and Express.js. Worked on real-time features and bug fixes to ensure system stability.
-
----
-
-## 🏅 Achievements
-
-- Solved 500+ LeetCode problems, ranked in top 13% in contests.
-- Developed an OAuth2 authentication system during my internship.
-- Built several full-stack projects utilizing the MERN stack and Django.
+All of my projects are available [here](https://github.com/a-k-singhk?tab=repositories).
 
 ---
 
-## 🎓 Education
+## 💬 Ask me about:
 
-- **B.Tech in Information Technology**  
-   Indian Institute of Information Technology, Una (IIIT Una), 2024
+- C/C++
+- Data Structures and Algorithms (DSA)
+- Competitive Programming
+- Full-Stack Development (MERN stack, Django)
 
 ---
 
-## 📫 Connect with Me
+## 📫 How to reach me:
 
-- **LinkedIn**: [Alok's LinkedIn]([https://www.linkedin.com/in/your-link-her](https://www.linkedin.com/in/iiit-alok/)e)
 - **Email**: iiit.alokk@gmail.com
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/iiit-alok/)
+
+---
+
+## 📄 Resume
+
+Know more about me in my [Resume](https://drive.google.com/file/d/1tK-ZRbR-A78mPZSVOEAcxyZGppYPLbIl/view?usp=drive_link).
 
 ---
 
