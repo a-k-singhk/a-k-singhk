@@ -1,36 +1,12 @@
 # Hi there, I'm Alok 👋
 
-I'm a **Full-Stack Software Developer** with a strong focus on backend development. 🌱 I am passionate about building scalable web applications and solving complex problems through algorithms and efficient code. If you have any doubts related to software development, feel free to drop me an email or connect with me on LinkedIn.
-
----
-
-## 👨‍💻 Projects
-
-All of my projects are available [here](https://github.com/a-k-singhk?tab=repositories).
-
----
-
-## 💬 Ask me about:
-
-- C/C++
-- Data Structures and Algorithms (DSA)
-- Competitive Programming
-- Full-Stack Development (MERN stack, Django)
-
----
-
-## 📫 How to reach me:
-
-- **Email**: iiit.alokk@gmail.com
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/iiit-alok/)
-
----
-
-## 📄 Resume
-
-Know more about me in my [Resume](https://drive.google.com/file/d/1tK-ZRbR-A78mPZSVOEAcxyZGppYPLbIl/view?usp=drive_link).
-
----
+# I'm a **Full-Stack Software Developer** with a strong focus on backend development. 🌱 I am passionate about building scalable web applications and solving complex problems through algorithms and efficient code. If you have any doubts related to software development, feel free to drop me an email or connect with me on LinkedIn.
+- 👨‍💻 All of my projects are available [here](https://github.com/a-k-singhk?tab=repositories).
+-💬 Ask me about: C/C++, Data Structures and Algorithms (DSA), Competitive Programming, Full-Stack Development (MERN stack, Django)
+-📫 Reach me:
+  -- **Email**: iiit.alokk@gmail.com
+  --**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/iiit-alok/)
+-Know more about me in my [Resume](https://drive.google.com/file/d/1tK-ZRbR-A78mPZSVOEAcxyZGppYPLbIl/view?usp=drive_link).
 
 ## 🚀 Languages and Tools
 
@@ -45,23 +21,16 @@ Know more about me in my [Resume](https://drive.google.com/file/d/1tK-ZRbR-A78mP
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
----
 ## 🏅 Problem Solving Websites
 
 - **LeetCode**: [LeetCode Profile](https://leetcode.com/u/iiit_alokk/)
 - **GeeksforGeeks**: [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/alokkumarsinghsintu/)
 
-
----
 ## 👀 Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=a-k-singhk&style=flat-square&color=blue)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-k-singhk&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-k-singhk&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-k-singhk&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-k-singhk&layout=compact)
 
 <!--
