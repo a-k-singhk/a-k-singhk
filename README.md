@@ -1,12 +1,19 @@
 # Hi there, I'm Alok 👋
 
-# I'm a **Full-Stack Software Developer** with a strong focus on backend development. 🌱 I am passionate about building scalable web applications and solving complex problems through algorithms and efficient code. If you have any doubts related to software development, feel free to drop me an email or connect with me on LinkedIn.
+I'm a **Full-Stack Software Developer** with a strong focus on backend development. 🌱 I am passionate about building scalable web applications and solving complex problems through algorithms and efficient code. If you have any doubts related to software development, feel free to drop me an email or connect with me on LinkedIn.
+
 - 👨‍💻 All of my projects are available [here](https://github.com/a-k-singhk?tab=repositories).
--💬 Ask me about: C/C++, Data Structures and Algorithms (DSA), Competitive Programming, Full-Stack Development (MERN stack, Django)
--📫 Reach me:
-  -- **Email**: iiit.alokk@gmail.com
-  --**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/iiit-alok/)
--Know more about me in my [Resume](https://drive.google.com/file/d/1tK-ZRbR-A78mPZSVOEAcxyZGppYPLbIl/view?usp=drive_link).
+- 💬 Ask me about: 
+  - C/C++
+  - Data Structures and Algorithms (DSA)
+  - Competitive Programming
+  - Full-Stack Development (MERN stack, Django)
+
+- 📫 Reach me:
+  - **Email**: iiit.alokk@gmail.com
+  - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/iiit-alok/)
+
+- Know more about me in my [Resume](https://drive.google.com/file/d/1tK-ZRbR-A78mPZSVOEAcxyZGppYPLbIl/view?usp=drive_link).
 
 ## 🚀 Languages and Tools
 
