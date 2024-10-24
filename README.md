@@ -13,7 +13,7 @@ I'm a **Full-Stack Software Developer** with a strong focus on backend developme
   - **Email**: iiit.alokk@gmail.com
   - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/iiit-alok/)
 
-- Know more about me in my [Resume](https://drive.google.com/file/d/1tK-ZRbR-A78mPZSVOEAcxyZGppYPLbIl/view?usp=drive_link).
+- Know more about me in my [Resume](https://drive.google.com/file/d/1HXBvwlUO3cOHfG3y70OWYA8cy2lzOEoY/view?usp=drive_link).
 
 ## 🚀 Languages and Tools
 
